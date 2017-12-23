@@ -1,0 +1,4 @@
+Bind to a variable in the app component class
+
+<input type="text" [(ngModel)] = "name1"/>
+name will be variable in app.component.ts
