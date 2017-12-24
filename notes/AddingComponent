@@ -1,0 +1,5 @@
+ng generate component my-component
+or
+ng g c my-component
+
+Add this and import this component into the root module file app.module.ts under Declarationsp[] array
