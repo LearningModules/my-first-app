@@ -1,0 +1,11 @@
+h1 {
+    color: tomato;
+    text-align: center;
+    
+}
+
+#smallHeading{
+    color: aquamarine;
+    align-self: auto;
+    animation-delay: unset
+}
